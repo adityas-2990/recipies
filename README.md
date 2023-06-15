@@ -1,4 +1,4 @@
-# recipies
+# recipes
 
 Hi, my name is Aditya Srivastava and I am an aspiring developer from India.
 
